@@ -16,7 +16,4 @@ Student tracker:
     student repository -> storage design
     time table -> assign && edit && view -> storage design
     work -> assignments && share notes && evaluvate
-    projects -> interests && strengths && weakness && academic performance
-
-    chat: pending
-    
+    projects -> interests && strengths && weakness && academic performance  
